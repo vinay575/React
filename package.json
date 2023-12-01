@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinay575/React_app.git"
+    "url": "git+https://github.com/vinay575/React.git"
   },
   "keywords": [
     "ract",
@@ -18,9 +18,9 @@
   "author": "vinay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinay575/React_app/issues"
+    "url": "https://github.com/vinay575/React/issues"
   },
-  "homepage": "https://github.com/vinay575/React_app#readme",
+  "homepage": "https://github.com/vinay575/React#readme",
   "devDependencies": {
     "parcel": "^2.10.3",
     "process": "^0.11.10"
